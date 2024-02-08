@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/car-spare/static/css/main.9252c0fd.css",
+    "main.js": "/car-spare/static/js/main.19b2e67f.js",
+    "index.html": "/car-spare/index.html",
+    "main.9252c0fd.css.map": "/car-spare/static/css/main.9252c0fd.css.map",
+    "main.19b2e67f.js.map": "/car-spare/static/js/main.19b2e67f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9252c0fd.css",
+    "static/js/main.19b2e67f.js"
+  ]
+}
